@@ -30,7 +30,7 @@
     "cordova-android": "8.1.0",
     "cordova-plugin-insomnia": "^4.3.0",
     "cordova-plugin-navigationbar": "^1.0.31",
-    "core-js": "^2.5.4",
+    "core-js": "^3.6.4",
     "ionic-native": "^2.9.0",
     "ng-circle-progress": "^1.5.0",
     "rxjs": "~6.5.1",
