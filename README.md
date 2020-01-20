@@ -56,4 +56,5 @@
        $ cordova run android
 # Bugs and Issues
 Have a bug or an issue with this project ? Open a new issue here on Github. 
-
+# Copyright and License
+Copyright 2020 Raghu Sharma. Code released under the [MIT](https://github.com/the-blackpirate/Ticker/blob/master/LICENSE.md) license.
